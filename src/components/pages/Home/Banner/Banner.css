@@ -1,0 +1,6 @@
+.bgBanner {
+  background-image: url('../../../../assets/images/banerff.jpg');
+  background-repeat: no-repeat;
+  width: 100% !important;
+  background-size: cover;
+}

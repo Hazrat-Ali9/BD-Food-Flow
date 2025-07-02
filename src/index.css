@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply max-w-full w-[1440px] mx-auto md:px-10 px-5;
+  }
+  .btn {
+    @apply bg-[#023e8a] text-[#ffffff]  text-center  py-4 px-4 rounded-lg hover:bg-[#31558e] duration-300 text-[16px] font-bold;
+  }
+  /* form control  */
+  .form-control {
+    @apply mb-6 space-y-2.5;
+  }
+  .auth-label {
+    @apply leading-[138%] lg:text-lg;
+  }
+  .auth-input {
+    @apply w-full p-3 bg-gray-300 border border-white/20 rounded-md focus:outline-none focus:border-indigo-500;
+  }
+}
+
+@layer base {
+  html {
+    font-family: "Roboto", sans-serif;
+  }
+  h2 {
+    @apply md:text-5xl text-2xl font-extrabold;
+  }
+}
