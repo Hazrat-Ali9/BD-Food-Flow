@@ -7,3 +7,4 @@ export default {
   },
   plugins: [],
 };
+// tailwind
