@@ -1,6 +1,6 @@
 import { Outlet } from 'react-router-dom'
 import Sidebar from '../pages/Admin/Sidebar/Sidebar'
-
+// admin layout tsx 
 const AdminLayout = () => {
   return (
     <>
