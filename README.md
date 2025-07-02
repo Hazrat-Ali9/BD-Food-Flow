@@ -8,7 +8,7 @@
 
 This project aims to develop a comprehensive Disaster Relief Donation Platform using React, Redux for state management, RTK Query for efficient data fetching, and React Router DOM for navigation. The platform serves as a vital tool for coordinating and managing the distribution of food and essential supplies to communities in need during disasters, ensuring accessibility to nutritious meals and basic necessities.
 
-## Live Deployment Link: 
+## Live Deployment Link: https://hazrat-food.vercel.app/
 
 ## Video Showcasing BD Food Flow:
 
