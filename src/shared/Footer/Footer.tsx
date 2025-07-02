@@ -109,7 +109,7 @@ const Footer = () => {
                             <AiTwotonePhone className="text-white" size={25} />
                           </div>
                           <div className="text-[16px] font-medium ">
-                            <p>0179-3636735</p>
+                            <p>01315090</p>
                           </div>
                         </div>
 
@@ -131,8 +131,8 @@ const Footer = () => {
               <div className="pt-4  flex justify-center items-center flex-wrap">
                 <div>
                   <p className="dark:text-white">
-                    © Copyright {currentYear}, All Rights Reserved by BD Food
-                    Flow
+                    © Copyright {currentYear}, All Rights Reserved by Hazrat Ali
+                    
                   </p>
                 </div>
               </div>
